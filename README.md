@@ -3,6 +3,11 @@
 ## Project Overview
 Mosaic is a comprehensive Campus Event Management System designed for university environments. It enables students and staff to seamlessly discover, register for, and manage campus events such as workshops, seminars, and club activities. The platform features an intuitive calendar interface, real-time seat availability tracking, and personalized event preferences.
 
+## Backend Repository On GitHub
+- **Backend**: [https://github.com/Oswald4422/Mosaic-Backend](https://github.com/Oswald4422/Mosaic-Backend)
+
+
+
 ## Deployment Links
 - **Frontend**: [https://mosaic-frontend-zrqe.onrender.com](https://mosaic-frontend-zrqe.onrender.com)
 - **Backend**: [https://mosaic-backend-t33r.onrender.com](https://mosaic-backend-t33r.onrender.com)
@@ -16,6 +21,9 @@ Mosaic is a comprehensive Campus Event Management System designed for university
 ### User Access
 - **Username**: araba@gmail.com
 - **Password**: araba123
+
+
+
 
 ## Features ✓
 
@@ -43,6 +51,8 @@ Mosaic is a comprehensive Campus Event Management System designed for university
 - ✓ Date-based event navigation
 
 
+
+
 ## API Testing Screenshots
 
 ### Authentication Endpoints
@@ -57,6 +67,8 @@ Mosaic is a comprehensive Campus Event Management System designed for university
 ### User Management Endpoints
 ![Update Profile Test](./public/images/api-tests/update-profile-test.png)
 ![Get User Events Test](./public/images/api-tests/user-events-test.png)
+
+
 
 
 ## Installation Instructions
