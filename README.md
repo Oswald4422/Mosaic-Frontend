@@ -56,8 +56,7 @@ Mosaic is a comprehensive Campus Event Management System designed for university
 ## API Testing Screenshots
 
 ### Authentication Endpoints
-![Login API Test](./public/images/api-tests/login-test.png)
-![Register API Test](./public/images/api-tests/register-test.png)
+
 
 ### Event Management Endpoints
 ![Create Event Test](./public/images/api-tests/create-event-test.png)
