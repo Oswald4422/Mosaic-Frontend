@@ -207,14 +207,6 @@ export default function AdminEvents() {
                           <span className="sr-only">View registrations</span>
                         </button>
                         <button
-                          onClick={() => navigate(`/admin/events/edit/${event._id}`)}
-                          className="text-primary-600 hover:text-primary-900"
-                          title="Edit Event"
-                        >
-                          <PencilIcon className="h-5 w-5" aria-hidden="true" />
-                          <span className="sr-only">Edit event</span>
-                        </button>
-                        <button
                           onClick={() => handleDelete(event._id)}
                           className="text-red-600 hover:text-red-900"
                           title="Delete Event"
