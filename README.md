@@ -134,4 +134,4 @@ The application will be available at `http://localhost:5173` (frontend) and `htt
 ## Additional Notes
 - Make sure MongoDB is running before starting the backend server
 - The frontend and backend must both be running for the application to work properly
-- For local development, ensure the ports 5173 and 5000 are available
+- For local development, ensure the ports 5173 or any other ports and 5000 are available
