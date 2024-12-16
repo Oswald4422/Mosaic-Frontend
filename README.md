@@ -33,6 +33,7 @@ Mosaic is a comprehensive Campus Event Management System designed for university
 - ✓ User profile management
 - ✓ Role-based access control (Admin/User)
 - ✓ User can only RSVP to event under their preferences
+- ✓ Click the Campus Events logo to take you to the Homepage
 
 ### Event Management
 - ✓ Comprehensive event listings with detailed information
@@ -46,6 +47,7 @@ Mosaic is a comprehensive Campus Event Management System designed for university
 - ✓ Capacity management
 - ✓ Event modification and deletion
 - ✓ Admin can see the calendar view after creating an event
+- ✓ Click the Campus Events logo to take you to the Homepage
 
 ### Calendar Integration
 - ✓ Interactive calendar view
